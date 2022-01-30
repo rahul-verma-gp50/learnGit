@@ -1,1 +1,0 @@
-This contains info for each received file item
